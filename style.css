@@ -5,7 +5,8 @@
 main {
     display: flex;
     flex-direction: row;
-
+    max-width: 1800px;
+      margin: auto;
 
     gap: 4rem;
     min-height: 100vh;
